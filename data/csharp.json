@@ -1,0 +1,59 @@
+{
+    "id": "csharp",
+    "order": 6,
+    "title": "C#",
+    "icon": "🔵",
+    "description": "Deep C# knowledge for senior .NET roles.",
+    "topics": [
+        {
+            "id": "oop",
+            "name": "OOP",
+            "level": "Essential"
+        },
+        {
+            "id": "collections",
+            "name": "Collections",
+            "level": "Essential"
+        },
+        {
+            "id": "generics",
+            "name": "Generics",
+            "level": "Essential"
+        },
+        {
+            "id": "delegates",
+            "name": "Delegates & Events",
+            "level": "Important"
+        },
+        {
+            "id": "linq",
+            "name": "LINQ",
+            "level": "Essential"
+        },
+        {
+            "id": "async",
+            "name": "Async/Await",
+            "level": "Essential"
+        },
+        {
+            "id": "threads",
+            "name": "Threading",
+            "level": "Important"
+        },
+        {
+            "id": "memory",
+            "name": "Memory Management & GC",
+            "level": "Important"
+        },
+        {
+            "id": "reflection",
+            "name": "Reflection",
+            "level": "Useful"
+        },
+        {
+            "id": "solid",
+            "name": "SOLID Principles",
+            "level": "Essential"
+        }
+    ]
+}

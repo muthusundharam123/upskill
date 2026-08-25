@@ -1,0 +1,39 @@
+{
+    "id": "cloud",
+    "order": 14,
+    "title": "Cloud",
+    "icon": "☁️",
+    "description": "Cloud skills for modern backend engineers.",
+    "topics": [
+        {
+            "id": "azure",
+            "name": "Azure Fundamentals",
+            "level": "Essential"
+        },
+        {
+            "id": "appservice",
+            "name": "Azure App Service",
+            "level": "Important"
+        },
+        {
+            "id": "storage",
+            "name": "Cloud Storage",
+            "level": "Important"
+        },
+        {
+            "id": "database",
+            "name": "Cloud Databases",
+            "level": "Important"
+        },
+        {
+            "id": "functions",
+            "name": "Serverless Functions",
+            "level": "Useful"
+        },
+        {
+            "id": "kubernetes",
+            "name": "Kubernetes",
+            "level": "Important"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": "devops",
+    "order": 13,
+    "title": "DevOps",
+    "icon": "⚙️",
+    "description": "Deploy and operate production applications.",
+    "topics": [
+        {
+            "id": "git",
+            "name": "Git",
+            "level": "Essential"
+        },
+        {
+            "id": "linux",
+            "name": "Linux",
+            "level": "Essential"
+        },
+        {
+            "id": "docker",
+            "name": "Docker",
+            "level": "Essential"
+        },
+        {
+            "id": "nginx",
+            "name": "Nginx",
+            "level": "Important"
+        },
+        {
+            "id": "cicd",
+            "name": "CI/CD",
+            "level": "Essential"
+        },
+        {
+            "id": "monitoring",
+            "name": "Monitoring",
+            "level": "Important"
+        },
+        {
+            "id": "logging",
+            "name": "Centralized Logging",
+            "level": "Important"
+        }
+    ]
+}

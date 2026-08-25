@@ -1,0 +1,79 @@
+{
+    "id": "dsa",
+    "order": 9,
+    "title": "DSA",
+    "icon": "🧠",
+    "description": "Interview-level problem solving.",
+    "topics": [
+        {
+            "id": "complexity",
+            "name": "Big O Complexity",
+            "level": "Essential"
+        },
+        {
+            "id": "arrays",
+            "name": "Arrays",
+            "level": "Essential"
+        },
+        {
+            "id": "strings",
+            "name": "Strings",
+            "level": "Essential"
+        },
+        {
+            "id": "hashing",
+            "name": "Hash Tables",
+            "level": "Essential"
+        },
+        {
+            "id": "linkedlist",
+            "name": "Linked Lists",
+            "level": "Essential"
+        },
+        {
+            "id": "stack",
+            "name": "Stacks",
+            "level": "Essential"
+        },
+        {
+            "id": "queue",
+            "name": "Queues",
+            "level": "Essential"
+        },
+        {
+            "id": "tree",
+            "name": "Trees",
+            "level": "Essential"
+        },
+        {
+            "id": "graph",
+            "name": "Graphs",
+            "level": "Important"
+        },
+        {
+            "id": "heap",
+            "name": "Heap / Priority Queue",
+            "level": "Important"
+        },
+        {
+            "id": "binarysearch",
+            "name": "Binary Search",
+            "level": "Essential"
+        },
+        {
+            "id": "recursion",
+            "name": "Recursion",
+            "level": "Essential"
+        },
+        {
+            "id": "dp",
+            "name": "Dynamic Programming",
+            "level": "Important"
+        },
+        {
+            "id": "backtracking",
+            "name": "Backtracking",
+            "level": "Important"
+        }
+    ]
+}

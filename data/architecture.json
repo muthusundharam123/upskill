@@ -1,0 +1,39 @@
+{
+    "id": "architecture",
+    "order": 10,
+    "title": "Software Architecture",
+    "icon": "🏗️",
+    "description": "Think like a senior engineer.",
+    "topics": [
+        {
+            "id": "solid",
+            "name": "SOLID",
+            "level": "Essential"
+        },
+        {
+            "id": "clean",
+            "name": "Clean Architecture",
+            "level": "Essential"
+        },
+        {
+            "id": "patterns",
+            "name": "Design Patterns",
+            "level": "Essential"
+        },
+        {
+            "id": "ddd",
+            "name": "Domain Driven Design",
+            "level": "Important"
+        },
+        {
+            "id": "cqrs",
+            "name": "CQRS",
+            "level": "Important"
+        },
+        {
+            "id": "eventdriven",
+            "name": "Event Driven Architecture",
+            "level": "Important"
+        }
+    ]
+}

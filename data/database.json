@@ -1,0 +1,49 @@
+{
+    "id": "database",
+    "order": 8,
+    "title": "Database",
+    "icon": "🗄️",
+    "description": "Become strong in SQL and database design.",
+    "topics": [
+        {
+            "id": "sql",
+            "name": "SQL Fundamentals",
+            "level": "Essential"
+        },
+        {
+            "id": "joins",
+            "name": "Joins",
+            "level": "Essential"
+        },
+        {
+            "id": "indexes",
+            "name": "Indexes",
+            "level": "Essential"
+        },
+        {
+            "id": "transactions",
+            "name": "Transactions",
+            "level": "Essential"
+        },
+        {
+            "id": "procedures",
+            "name": "Stored Procedures",
+            "level": "Important"
+        },
+        {
+            "id": "optimization",
+            "name": "Query Optimization",
+            "level": "Essential"
+        },
+        {
+            "id": "normalization",
+            "name": "Normalization",
+            "level": "Important"
+        },
+        {
+            "id": "postgresql",
+            "name": "PostgreSQL",
+            "level": "Important"
+        }
+    ]
+}

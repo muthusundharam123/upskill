@@ -1,0 +1,44 @@
+{
+    "id": "ai",
+    "order": 15,
+    "title": "AI for Developers",
+    "icon": "🤖",
+    "description": "Use AI as an engineering multiplier.",
+    "topics": [
+        {
+            "id": "python",
+            "name": "Python Basics",
+            "level": "Useful"
+        },
+        {
+            "id": "mlbasics",
+            "name": "Machine Learning Fundamentals",
+            "level": "Useful"
+        },
+        {
+            "id": "llm",
+            "name": "LLM Fundamentals",
+            "level": "Important"
+        },
+        {
+            "id": "prompt",
+            "name": "Prompt Engineering",
+            "level": "Important"
+        },
+        {
+            "id": "rag",
+            "name": "RAG",
+            "level": "Important"
+        },
+        {
+            "id": "embeddings",
+            "name": "Embeddings & Vector Databases",
+            "level": "Important"
+        },
+        {
+            "id": "agents",
+            "name": "AI Agents",
+            "level": "Useful"
+        }
+    ]
+}

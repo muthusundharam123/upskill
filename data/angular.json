@@ -1,0 +1,59 @@
+{
+    "id": "angular",
+    "order": 5,
+    "title": "Angular",
+    "icon": "🅰️",
+    "description": "Become strong in modern Angular development.",
+    "topics": [
+        {
+            "id": "components",
+            "name": "Components",
+            "level": "Essential"
+        },
+        {
+            "id": "templates",
+            "name": "Templates & Directives",
+            "level": "Essential"
+        },
+        {
+            "id": "services",
+            "name": "Services & Dependency Injection",
+            "level": "Essential"
+        },
+        {
+            "id": "routing",
+            "name": "Routing",
+            "level": "Essential"
+        },
+        {
+            "id": "forms",
+            "name": "Reactive Forms",
+            "level": "Essential"
+        },
+        {
+            "id": "http",
+            "name": "HttpClient",
+            "level": "Essential"
+        },
+        {
+            "id": "rxjs",
+            "name": "RxJS",
+            "level": "Essential"
+        },
+        {
+            "id": "state",
+            "name": "State Management",
+            "level": "Important"
+        },
+        {
+            "id": "lazy",
+            "name": "Lazy Loading",
+            "level": "Important"
+        },
+        {
+            "id": "performance",
+            "name": "Angular Performance",
+            "level": "Important"
+        }
+    ]
+}

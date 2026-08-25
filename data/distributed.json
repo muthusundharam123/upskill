@@ -1,0 +1,39 @@
+{
+    "id": "distributed",
+    "order": 12,
+    "title": "Distributed Systems",
+    "icon": "🌍",
+    "description": "Understand systems beyond one server.",
+    "topics": [
+        {
+            "id": "consistency",
+            "name": "Consistency",
+            "level": "Important"
+        },
+        {
+            "id": "availability",
+            "name": "Availability",
+            "level": "Important"
+        },
+        {
+            "id": "partition",
+            "name": "Network Partition",
+            "level": "Important"
+        },
+        {
+            "id": "cap",
+            "name": "CAP Theorem",
+            "level": "Essential"
+        },
+        {
+            "id": "idempotency",
+            "name": "Idempotency",
+            "level": "Essential"
+        },
+        {
+            "id": "distributedcache",
+            "name": "Distributed Cache",
+            "level": "Important"
+        }
+    ]
+}

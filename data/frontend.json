@@ -1,0 +1,34 @@
+{
+    "id": "frontend",
+    "order": 1,
+    "title": "Frontend Fundamentals",
+    "icon": "🎨",
+    "description": "Build strong browser and UI fundamentals.",
+    "topics": [
+        {
+            "id": "html",
+            "name": "HTML5",
+            "level": "Essential"
+        },
+        {
+            "id": "css",
+            "name": "CSS3",
+            "level": "Essential"
+        },
+        {
+            "id": "responsive",
+            "name": "Responsive Design",
+            "level": "Essential"
+        },
+        {
+            "id": "browser",
+            "name": "Browser DevTools",
+            "level": "Important"
+        },
+        {
+            "id": "accessibility",
+            "name": "Web Accessibility",
+            "level": "Useful"
+        }
+    ]
+}

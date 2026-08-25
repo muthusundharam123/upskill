@@ -1,0 +1,59 @@
+{
+    "id": "aspnet",
+    "order": 7,
+    "title": "ASP.NET Core",
+    "icon": "🌐",
+    "description": "Build production-grade .NET applications.",
+    "topics": [
+        {
+            "id": "mvc",
+            "name": "MVC Architecture",
+            "level": "Essential"
+        },
+        {
+            "id": "webapi",
+            "name": "REST APIs",
+            "level": "Essential"
+        },
+        {
+            "id": "middleware",
+            "name": "Middleware",
+            "level": "Essential"
+        },
+        {
+            "id": "di",
+            "name": "Dependency Injection",
+            "level": "Essential"
+        },
+        {
+            "id": "configuration",
+            "name": "Configuration & Options",
+            "level": "Important"
+        },
+        {
+            "id": "authentication",
+            "name": "Authentication & Authorization",
+            "level": "Essential"
+        },
+        {
+            "id": "jwt",
+            "name": "JWT",
+            "level": "Essential"
+        },
+        {
+            "id": "logging",
+            "name": "Logging",
+            "level": "Important"
+        },
+        {
+            "id": "caching",
+            "name": "Caching",
+            "level": "Important"
+        },
+        {
+            "id": "testing",
+            "name": "Unit & Integration Testing",
+            "level": "Important"
+        }
+    ]
+}

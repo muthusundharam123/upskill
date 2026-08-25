@@ -1,0 +1,54 @@
+{
+    "id": "systemdesign",
+    "order": 11,
+    "title": "System Design",
+    "icon": "📐",
+    "description": "Design systems that scale.",
+    "topics": [
+        {
+            "id": "requirements",
+            "name": "Requirement Analysis",
+            "level": "Essential"
+        },
+        {
+            "id": "api",
+            "name": "API Design",
+            "level": "Essential"
+        },
+        {
+            "id": "scaling",
+            "name": "Horizontal & Vertical Scaling",
+            "level": "Essential"
+        },
+        {
+            "id": "loadbalancer",
+            "name": "Load Balancers",
+            "level": "Essential"
+        },
+        {
+            "id": "cache",
+            "name": "Caching",
+            "level": "Essential"
+        },
+        {
+            "id": "queue",
+            "name": "Message Queues",
+            "level": "Essential"
+        },
+        {
+            "id": "database",
+            "name": "Database Scaling",
+            "level": "Important"
+        },
+        {
+            "id": "microservices",
+            "name": "Microservices",
+            "level": "Essential"
+        },
+        {
+            "id": "observability",
+            "name": "Observability",
+            "level": "Important"
+        }
+    ]
+}

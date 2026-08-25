@@ -1,0 +1,34 @@
+{
+    "id": "typescript",
+    "order": 4,
+    "title": "TypeScript",
+    "icon": "🔷",
+    "description": "Modern typed JavaScript.",
+    "topics": [
+        {
+            "id": "types",
+            "name": "Types",
+            "level": "Essential"
+        },
+        {
+            "id": "interfaces",
+            "name": "Interfaces",
+            "level": "Essential"
+        },
+        {
+            "id": "generics",
+            "name": "Generics",
+            "level": "Important"
+        },
+        {
+            "id": "decorators",
+            "name": "Decorators",
+            "level": "Useful"
+        },
+        {
+            "id": "advanced",
+            "name": "Advanced TypeScript",
+            "level": "Important"
+        }
+    ]
+}

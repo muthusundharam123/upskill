@@ -1,0 +1,235 @@
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+      content="width=device-width, initial-scale=1.0">
+
+<title>DevPath | Roadmap</title>
+
+<link rel="stylesheet"
+      href="{{ url_for('static', filename='style.css') }}">
+
+</head>
+
+<body>
+
+
+<header class="header">
+
+    <div class="brand">
+
+        <div class="brand-icon">
+            🚀
+        </div>
+
+        <div>
+
+            <h1>DevPath</h1>
+
+            <span>
+                Dot Net Developer Roadmap
+            </span>
+
+        </div>
+
+    </div>
+
+
+    <div class="header-stats">
+
+        <div class="stat">
+
+            <strong id="completedCount">
+                0
+            </strong>
+
+            <span>
+                Completed
+            </span>
+
+        </div>
+
+
+        <div class="stat">
+
+            <strong id="totalCount">
+                0
+            </strong>
+
+            <span>
+                Total Topics
+            </span>
+
+        </div>
+
+
+        <div class="progress-box">
+
+            <div class="progress-label">
+
+                <span>
+                    Overall Progress
+                </span>
+
+                <strong id="progressPercent">
+                    0%
+                </strong>
+
+            </div>
+
+
+            <div class="progress">
+
+                <div id="progressBar"></div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</header>
+
+
+
+<div class="layout">
+
+
+    <aside class="sidebar">
+
+        <div class="sidebar-title">
+            ROADMAP
+        </div>
+
+        <div id="sidebar"></div>
+
+    </aside>
+
+
+
+    <main class="main">
+
+
+        <section class="hero">
+
+            <div>
+
+                <div class="eyebrow">
+                    FULL STACK → SENIOR → Dream
+                </div>
+
+                <h2>
+
+                    Build your path.
+
+                    <span>
+                        Master the fundamentals.
+                    </span>
+
+                </h2>
+
+                <p>
+
+                    Track C#, .NET, Angular, SQL,
+                    DSA, System Design, Cloud,
+                    DevOps and AI from one place.
+
+                </p>
+
+            </div>
+
+
+            <div class="hero-progress">
+
+                <div class="circle">
+
+                    <span id="circlePercent">
+                        0%
+                    </span>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+
+        <div class="toolbar">
+
+
+            <div class="search">
+
+                🔎
+
+                <input
+                    id="searchInput"
+                    type="text"
+                    placeholder="Search topics...">
+
+            </div>
+
+
+            <div class="filters">
+
+                <button
+                    class="filter active"
+                    data-filter="all">
+
+                    All
+
+                </button>
+
+
+                <button
+                    class="filter"
+                    data-filter="Essential">
+
+                    Essential
+
+                </button>
+
+
+                <button
+                    class="filter"
+                    data-filter="Important">
+
+                    Important
+
+                </button>
+
+
+                <button
+                    class="filter"
+                    data-filter="Useful">
+
+                    Useful
+
+                </button>
+
+            </div>
+
+        </div>
+
+
+
+        <div id="roadmap"></div>
+
+
+    </main>
+
+</div>
+
+
+
+<script src="{{ url_for('static', filename='app.js') }}"></script>
+
+</body>
+
+</html>

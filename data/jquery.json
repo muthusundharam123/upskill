@@ -1,0 +1,29 @@
+{
+    "id": "jquery",
+    "order": 3,
+    "title": "jQuery",
+    "icon": "⚡",
+    "description": "Understand legacy enterprise applications.",
+    "topics": [
+        {
+            "id": "selectors",
+            "name": "Selectors",
+            "level": "Essential"
+        },
+        {
+            "id": "events",
+            "name": "Events",
+            "level": "Essential"
+        },
+        {
+            "id": "ajax",
+            "name": "AJAX",
+            "level": "Important"
+        },
+        {
+            "id": "dom",
+            "name": "DOM Manipulation",
+            "level": "Important"
+        }
+    ]
+}

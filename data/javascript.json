@@ -1,0 +1,49 @@
+{
+    "id": "javascript",
+    "order": 2,
+    "title": "JavaScript",
+    "icon": "🟨",
+    "description": "Master JavaScript before depending heavily on frameworks.",
+    "topics": [
+        {
+            "id": "variables",
+            "name": "Variables, Scope & Hoisting",
+            "level": "Essential"
+        },
+        {
+            "id": "functions",
+            "name": "Functions",
+            "level": "Essential"
+        },
+        {
+            "id": "objects",
+            "name": "Objects & Prototypes",
+            "level": "Essential"
+        },
+        {
+            "id": "arrays",
+            "name": "Arrays & Array Methods",
+            "level": "Essential"
+        },
+        {
+            "id": "promises",
+            "name": "Promises & Async/Await",
+            "level": "Essential"
+        },
+        {
+            "id": "eventloop",
+            "name": "Event Loop",
+            "level": "Important"
+        },
+        {
+            "id": "dom",
+            "name": "DOM Manipulation",
+            "level": "Essential"
+        },
+        {
+            "id": "fetch",
+            "name": "Fetch API",
+            "level": "Important"
+        }
+    ]
+}

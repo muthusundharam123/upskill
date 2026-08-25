@@ -1,0 +1,49 @@
+{
+    "id": "interview",
+    "order": 16,
+    "title": "Interview Preparation",
+    "icon": "🎯",
+    "description": "Convert knowledge into offers.",
+    "topics": [
+        {
+            "id": "coding",
+            "name": "Coding Problems",
+            "level": "Essential"
+        },
+        {
+            "id": "csharpquestions",
+            "name": "C# Interview Questions",
+            "level": "Essential"
+        },
+        {
+            "id": "dotnetquestions",
+            "name": ".NET Interview Questions",
+            "level": "Essential"
+        },
+        {
+            "id": "sqlquestions",
+            "name": "SQL Interview Questions",
+            "level": "Essential"
+        },
+        {
+            "id": "angularquestions",
+            "name": "Angular Interview Questions",
+            "level": "Essential"
+        },
+        {
+            "id": "systemdesignquestions",
+            "name": "System Design Interviews",
+            "level": "Essential"
+        },
+        {
+            "id": "project",
+            "name": "Project Deep Dive",
+            "level": "Essential"
+        },
+        {
+            "id": "behavioral",
+            "name": "Behavioral Questions",
+            "level": "Important"
+        }
+    ]
+}
